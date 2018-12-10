@@ -12,6 +12,9 @@ https://www.youtube.com/watch?v=C3nFNTJuw8Q&list=PLUWl4KfxbRBiG8YtTGd-q91JxbETxD
 
 ## Power Point
 
+### Stephanie Yang, Foursquare, Dec 2018
+[Tree Tips for Better Predictive Modeling](https://www.datacouncil.ai/speaker/three-tips-for-better-predictive-modeling)
+
 ### Ronen Hilewicz, Ufora, Aug 2016
 [Scaling up machine learning algorithms directly from source code](https://docs.google.com/a/stern.nyu.edu/presentation/d/1x4kZuDX2GbPB5EpPS1FpX_r64Vz2WHdxdQDovi6TOY4/edit?usp=sharing)
 
